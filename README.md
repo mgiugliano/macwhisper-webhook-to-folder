@@ -5,7 +5,7 @@ A tiny, dependency-free local server that receives [MacWhisper](https://goodsnoo
 Markdown file in a folder you choose — no Zapier, no Make.com, no cloud
 service in between, and no vendor lock-in to a specific notes app.
 
-If you use [Obsidian](https://obsidian.md), [ZenNotes](https://zennotes.app),
+If you use [Obsidian](https://obsidian.md), [ZenNotes](https://zennotes.org),
 [Logseq](https://logseq.com), or literally any tool whose "vault" is just a
 folder of files, this drops your call transcripts straight into it,
 automatically, the moment a recording finishes.
